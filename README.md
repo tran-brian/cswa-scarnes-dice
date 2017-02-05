@@ -1,1 +1,3 @@
-#CSWA - Scarne's Dice
+# CS with Android
+
+Session 2 - Scarne's Dice
